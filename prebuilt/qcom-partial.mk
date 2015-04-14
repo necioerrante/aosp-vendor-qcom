@@ -14,6 +14,7 @@
 
 PRODUCT_PACKAGES += \
 	addrsetup \
+	hci_qcomm_init \
 	hvdcp \
 	irsc_util \
 	mlog_qmi_service \
@@ -63,6 +64,7 @@ PRODUCT_PACKAGES += \
 	libmiscta \
 	libnetmgr \
 	libperipheral_client \
+	libqcci_legacy \
 	libqdi \
 	libqdp \
 	libqmi \
