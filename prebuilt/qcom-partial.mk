@@ -41,14 +41,11 @@ PRODUCT_PACKAGES += \
 	libq3dtools_adreno \
 	libC2D2 \
 	libOpenCL \
-	libOpenVG \
 	libQSEEComAPI \
 	libRSDriver_adreno \
 	libadreno_utils \
-	libc2d2_z180 \
 	libc2d30-a3xx \
 	libc2d30-a4xx \
-	libc2d30 \
 	libcneapiclient \
 	libcnefeatureconfig \
 	libconfigdb \
@@ -62,6 +59,7 @@ PRODUCT_PACKAGES += \
 	libloc_ds_api \
 	libmdmdetect \
 	libmiscta \
+	libmmcamera2_c2d_module \
 	libnetmgr \
 	libperipheral_client \
 	libqcci_legacy \
@@ -80,6 +78,8 @@ PRODUCT_PACKAGES += \
 	librs_adreno_sha1 \
 	libsc-a2xx \
 	libsc-a3xx \
+	libsensor1 \
+	libsensor_reg \
 	libta \
 	libtime_genoff \
 	libxml \
