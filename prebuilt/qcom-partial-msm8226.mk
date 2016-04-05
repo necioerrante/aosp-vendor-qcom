@@ -175,5 +175,4 @@ PRODUCT_PACKAGES += \
 	libtime_genoff \
 	libtrueportrait \
 	libubifocus \
-	libxml \
-	libyasalgo
+	libxml

@@ -14,7 +14,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter rhine shinano shinano2, $(PRODUCT_PLATFORM)), )
+ifneq ($(filter rhine shinano, $(PRODUCT_PLATFORM)), )
 include $(CLEAR_VARS)
 LOCAL_MODULE := irsc_util
 LOCAL_MODULE_OWNER := Sony Mobile

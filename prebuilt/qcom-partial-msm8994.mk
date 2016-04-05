@@ -32,6 +32,8 @@ PRODUCT_PACKAGES += \
 	sensors.msm8994 \
 	lib-sec-disp \
 	libQSEEComAPI \
+	libSecureUILib \
+	libStDrvInt \
 	libacdb-fts \
 	libacdbloader \
 	libacdbmapper \
@@ -217,6 +219,7 @@ PRODUCT_PACKAGES += \
 	librpmb \
 	libsecureui \
 	libsecureui_svcsock \
+	libsecureuisvc_jni \
 	libseemore \
 	libsensor1 \
 	libsensor_reg \
@@ -227,4 +230,4 @@ PRODUCT_PACKAGES += \
 	libtime_genoff \
 	libtrueportrait \
 	libubifocus \
-	libxml
+	libxml \
