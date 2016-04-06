@@ -88,7 +88,6 @@ PRODUCT_PACKAGES += \
 	libfastcvadsp_stub \
 	libfastcvopt \
 	libflash_pmic \
-	libgsl \
 	libidl \
 	libllvd_smore \
 	libloc_api_v02 \
