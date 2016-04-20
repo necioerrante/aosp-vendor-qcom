@@ -28,10 +28,6 @@ PRODUCT_PACKAGES += \
 	tad_static \
 	sensors.msm8974 \
 	libQSEEComAPI \
-	libacdb-fts \
-	libacdbloader \
-	libacdbmapper \
-	libacdbrtac \
 	libactuator_bu64291gwz \
 	libactuator_bu64291gwz_camcorder \
 	libactuator_bu64291gwz_camera \
@@ -44,10 +40,7 @@ PRODUCT_PACKAGES += \
 	libactuator_dw9719 \
 	libactuator_dw9719_camcorder \
 	libactuator_dw9719_camera \
-	libadiertac \
 	libadsprpc \
-	libaudcal \
-	libaudioalsa \
 	libchromaflash \
 	libchromatix_imx132_common \
 	libchromatix_imx132_cpp_liveshot \
@@ -170,7 +163,6 @@ PRODUCT_PACKAGES += \
 	libmmqjpegdma \
 	libnetmgr \
 	liboemcamera \
-	libomx-dts \
 	liboptizoom \
 	libperipheral_client \
 	libqcci_legacy \
