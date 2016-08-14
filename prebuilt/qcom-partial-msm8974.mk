@@ -26,7 +26,6 @@ PRODUCT_PACKAGES += \
 	sensors \
 	ta_qmi_service \
 	tad_static \
-	gatekeeper.msm8974 \
 	sensors.msm8974 \
 	libQSEEComAPI \
 	libactuator_bu64291g \
@@ -45,6 +44,7 @@ PRODUCT_PACKAGES += \
 	libchromatix_imx132_postproc \
 	libchromatix_imx132_preview \
 	libchromatix_imx132_snapshot \
+	libchromatix_imx132_video \
 	libchromatix_imx134_common \
 	libchromatix_imx134_cpp_liveshot \
 	libchromatix_imx134_cpp_preview \
@@ -106,6 +106,7 @@ PRODUCT_PACKAGES += \
 	libmmcamera_imglib \
 	libmmcamera_imx132 \
 	libmmcamera_imx134a \
+	libmmcamera_imx134b \
 	libmmcamera_imx200a \
 	libmmcamera_imx200b \
 	libmmcamera_isp_abf40 \
@@ -167,6 +168,7 @@ PRODUCT_PACKAGES += \
 	libril-qc-qmi-1 \
 	libril-qc-qmi-2 \
 	libril-qcril-hook-oem \
+	librpmb \
 	libsensor1 \
 	libsensor_reg \
 	libsmemlog \
