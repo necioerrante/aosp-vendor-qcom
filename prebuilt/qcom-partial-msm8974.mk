@@ -81,6 +81,9 @@ PRODUCT_PACKAGES += \
 	libdsutils \
 	libflash_pmic \
 	libidl \
+	libjpegdhw \
+	libjpegdmahw \
+	libjpegehw \
 	libloc_api_v02 \
 	libloc_ds_api \
 	liblqe \
@@ -168,7 +171,6 @@ PRODUCT_PACKAGES += \
 	libril-qc-qmi-1 \
 	libril-qc-qmi-2 \
 	libril-qcril-hook-oem \
-	librpmb \
 	libsensor1 \
 	libsensor_reg \
 	libsmemlog \
