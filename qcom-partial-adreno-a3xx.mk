@@ -32,4 +32,5 @@ PRODUCT_PACKAGES += \
 	librs_adreno \
 	librs_adreno_sha1 \
 	libsc-a2xx \
-	libsc-a3xx
+	libsc-a3xx \
+	libbccQTI
